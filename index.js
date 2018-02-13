@@ -13,3 +13,8 @@ function johnLennonFacts(array) {
 }
 return final
 }
+
+function iLoveTheBeatles(n) {
+  var array = [];
+  do ()
+}
