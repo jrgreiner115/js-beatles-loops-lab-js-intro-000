@@ -7,5 +7,6 @@ return array;
 
 function johnLennonFacts(array) {
   var final = [];
-  while ()
+  var n = 0;
+  while (n > 0)
 }
