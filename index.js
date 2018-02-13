@@ -6,5 +6,6 @@ return array;
 }
 
 function johnLennonFacts(array) {
-  
+  var array = x;
+  while ()
 }
